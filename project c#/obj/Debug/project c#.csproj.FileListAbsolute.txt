@@ -1,0 +1,30 @@
+C:\Users\User\Documents\project c#\project c#\bin\Debug\project c#.exe.config
+C:\Users\User\Documents\project c#\project c#\bin\Debug\project c#.exe
+C:\Users\User\Documents\project c#\project c#\bin\Debug\project c#.pdb
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project c#.csproj.AssemblyReference.cache
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project_c_.Form1.resources
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project_c_.Form2.resources
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project_c_.Form3.resources
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project_c_.Form4.resources
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project_c_.Properties.Resources.resources
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project c#.csproj.GenerateResource.cache
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project c#.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project c#.exe
+C:\Users\User\Documents\project c#\project c#\obj\Debug\project c#.pdb
+C:\Users\User\Documents\project c#\project c#\bin\Debug\Database1.mdf
+C:\Users\User\Documents\project c#\project c#\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\projects\project c#\project c#\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\projects\project c#\project c#\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\projects\project c#\project c#\bin\Debug\project c#.exe.config
+C:\Users\User\Desktop\projects\project c#\project c#\bin\Debug\project c#.exe
+C:\Users\User\Desktop\projects\project c#\project c#\bin\Debug\project c#.pdb
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project c#.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project_c_.Form1.resources
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project_c_.Form2.resources
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project_c_.Form3.resources
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project_c_.Form4.resources
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project_c_.Properties.Resources.resources
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project c#.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project c#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project c#.exe
+C:\Users\User\Desktop\projects\project c#\project c#\obj\Debug\project c#.pdb
